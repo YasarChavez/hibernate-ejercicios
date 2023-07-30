@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="16b2486c-143d-473a-bc9d-53b6765e7c22" name="hibernate-test" url="jdbc:mysql://localhost/hibernate?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+    <data-source-infos>
+      <data-source-info id="16b2486c-143d-473a-bc9d-53b6765e7c22" persistence-unit-name="Default" />
+    </data-source-infos>
+  </component>
+</project>
